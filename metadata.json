@@ -1,0 +1,6 @@
+{
+  "name": "TeknoMacera 5 - Bilişim Dünyası",
+  "description": "5. Sınıf Bilişim Teknolojileri ve Yazılım Dersi 1. Tema Seviye Atlamalı Eğitici Macera Oyunu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
